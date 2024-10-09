@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dtno71a7y7emc"]
+
+[ext_resource type="Texture2D" uid="uid://c60rwc2xnibgn" path="res://sprite_0.png" id="1_8k726"]
+[ext_resource type="Script" path="res://bicho.gd" id="2_yw3et"]
+
+[node name="Node2D" type="Node2D"]
+metadata/_edit_vertical_guides_ = [37.0]
+
+[node name="Bicho" type="Sprite2D" parent="."]
+position = Vector2(146, 106.5)
+scale = Vector2(3.625, 4.28125)
+texture = ExtResource("1_8k726")
+script = ExtResource("2_yw3et")
+velocidad = 190
+
+[node name="Monedas" type="Node2D" parent="."]

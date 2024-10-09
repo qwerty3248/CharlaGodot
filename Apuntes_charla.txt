@@ -1,0 +1,23 @@
+Hay una version con C# y otro sin el interesante cuanto menos.
+La charla es sin el C#
+
+El juego es un bicho que coge monedas
+
+piskel para hacer pixel art 
+
+En el script tenemos dos funciones, ready se ejecuta cuando el script lo hace por primera vez
+La otra funcion process se hace cada fotograma 
+
+
+Se puede hacer las cosas que estan entre comillas en Proyecto>Proyect setting> en la segunda pestaña se pueden hacer y luegos porgramarlas para cada frame
+
+is_action_pressed es cuando lo pulsas, si usas el just es solo la primera vez que lo usas
+
+
+En animacion puedes crear distintas animaciones poniendo fotogramas distintos
+Luego creamos a la pista, luego en el play puedes ver los fotogramas 
+
+Las curvas de bezier son parametricas y una forma eficiente de representarlas
+
+con @export se puede cambiar del tiron una variable en nuestro caso la velocidad 
+
